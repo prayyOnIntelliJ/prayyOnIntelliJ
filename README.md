@@ -26,4 +26,4 @@
 
 ## 📫 Contact
 
-📧 jannikkluge2006@gmail.com  
+📧 contact@jannikkluge.com
