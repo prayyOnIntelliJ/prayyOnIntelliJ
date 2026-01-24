@@ -26,5 +26,4 @@
 
 ## 📫 Contact
 
-📧 contact@jannikkluge.com  
-💼 [GitHub](https://github.com/prayyOnIntelliJ)
+📧 jannikkluge2006@gmail.com  
