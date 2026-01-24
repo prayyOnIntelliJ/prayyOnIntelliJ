@@ -8,9 +8,9 @@
 
 | Project | Duration | Engine / Language | Link |
 |--------|---------|-----------------|------|
-| **Sakura's Journey** | 10 weeks | Godot 4.3 / GDScript | [View](https://www.jannikkluge.com/projects/SakurasJourney) |
-| **ZugZwang** | 10 weeks | Unity / C# | [View](https://www.jannikkluge.com/projects/ZugZwang) |
-| **EverWrestle** | Semester | Unreal / C++ | [View](https://www.jannikkluge.com) |
+| **Sakura's Journey** | 10 weeks | Godot 4.3 / GDScript | [View](https://www.jannikkluge.com/#/projects/SakurasJourney) |
+| **ZugZwang** | 10 weeks | Unity / C# | [View](https://www.jannikkluge.com/#/projects/ZugZwang) |
+| **EverWrestle** | Semester | Unreal / C++ | [View](https://www.jannikkluge.com/#/projects/EverWrestle) |
 
 ---
 
