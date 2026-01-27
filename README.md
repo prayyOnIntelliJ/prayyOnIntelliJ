@@ -10,7 +10,7 @@
 |--------|---------|-----------------|------|
 | **EverWrestle** | Semester | Unreal / C++ | [View](https://www.jannikkluge.com/#/projects/EverWrestle) |
 | **ZugZwang** | 10 weeks | Unity / C# | [View](https://www.jannikkluge.com/#/projects/ZugZwang) |
-| **Sakura's Journey** | 10 weeks | Godot 4.3 / GDScript | [View](https://www.jannikkluge.com/#/projects/SakurasJourney) |
+| **Sakura's Journey** | 10 weeks | Godot / GDScript | [View](https://www.jannikkluge.com/#/projects/SakurasJourney) |
 
 ---
 
