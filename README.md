@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Jannik Kluge
+# Hi, I'm Jannik Kluge
 
-🎮 Game Engineer | 💻 Programmer | 🌐 [Portfolio](https://www.jannikkluge.com)
+Game Engineer | Programmer | [Portfolio](https://www.jannikkluge.com)
 
 ---
 
-## 📚 Projects
+## Projects
 
 | Project | Duration | Engine / Language | Link |
 |--------|---------|-----------------|------|
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Languages:** `C#`, `C++`, `GDScript`, `JS/TS`  
 **Engines:** `Unity`, `Godot 4`, `Unreal Engine`  
@@ -25,6 +25,6 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 contact@jannikkluge.com
