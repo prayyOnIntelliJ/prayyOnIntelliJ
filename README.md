@@ -9,7 +9,7 @@ Game Engineer | Programmer | [Portfolio](https://www.jannikkluge.com)
 | Project | Duration | Engine / Language | Link |
 |--------|---------|-----------------|------|
 | **Event-Driven Ability System** | In Progress | Unreal / C++ | [View](https://github.com/prayyOnIntelliJ/EventDrivenAbilitySystem) |
-| **EverWrestle** | In Progress (10 weeks) | Unreal / C++ | [View](https://www.jannikkluge.com/#/projects/EverWrestle) |
+| **EverWrestle** | 10 weeks | Unreal / C++ | [View](https://github.com/prayyOnIntelliJ/EverWrestle) |
 | **ZugZwang** | 10 weeks | Unity / C# | [View](https://github.com/prayyOnIntelliJ/ZugZwang) |
 | **Sakura's Journey** | 10 weeks | Godot / GDScript | [View](https://github.com/prayyOnIntelliJ/SakurasJourney) |
 
