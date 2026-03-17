@@ -8,7 +8,7 @@ Game Engineer | Programmer | [Portfolio](https://www.jannikkluge.com)
 
 | Project | Duration | Semester | Engine / Language | Link |
 |--------|---------|---------------|----------------|------|
-| **RayneEngine** | In Progress | 3rd Semester | C++ / SFML | [View](https://github.com/prayyOnIntelliJ/RayneEngine) |
+| **RayneEngine** | In Progress | 3rd Semester | SFML / C++ | [View](https://github.com/prayyOnIntelliJ/RayneEngine) |
 | **Event-Driven Ability System** | In Progress | 3rd Semester | Unreal / C++ | [View](https://github.com/prayyOnIntelliJ/EventDrivenAbilitySystem) |
 | **EverWrestle** | 10 weeks | 3rd Semester | Unreal / C++ | [View](https://github.com/prayyOnIntelliJ/EverWrestle) |
 | **ZugZwang** | 10 weeks | 2nd Semester | Unity / C# | [View](https://github.com/prayyOnIntelliJ/ZugZwang) |
