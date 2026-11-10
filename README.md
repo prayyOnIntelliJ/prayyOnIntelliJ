@@ -1,6 +1,6 @@
 # Hi, I'm Jannik Kluge
 
-Game Engineer | Programmer | [Portfolio](https://jannikkluge.com/#/)
+Programmer | [Portfolio](https://jannikkluge.com/#/)
 
 ---
 
